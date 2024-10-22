@@ -35,9 +35,9 @@ This project is a **3D Scanner** built using **Embedded C** and a variety of har
    - The joystick allows users to navigate through the menu and start the scan.
    - The selection button is used to initiate the scan and control the scanning process.
 
-## Project Setup
+For a detailed explanation of the project, you can refer to the project presentation: 3D Scanner Project Presentation
 
 
 ```bash
-git clone [https://github.com/yourusername/3D-Scanner.git
-cd 3D-Scanner](https://docs.google.com/presentation/d/1XjHeJdVogjKGCzo6vBP9fqKM0ICfZaM6/edit?usp=sharing&ouid=101981796462723142981&rtpof=true&sd=true)
+git clone [https://github.com/RAKESH-564/3D-Scanner.git
+cd 3D-Scanner]
