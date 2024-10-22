@@ -1,5 +1,8 @@
 # 3D Scanner Project
 
+## Problem Statement
+The issue that encouraged the development of this 3D scanner system is the need for an affordable and efficient solution for 3D scanning applications in various industries such as engineering, architecture, and healthcare. Traditional 3D scanning technologies can be expensive and require specialized expertise, limiting their accessibility to smaller businesses and individuals. This system offers an accessible and customizable solution that can be built and operated by individuals with basic technical skills. The system's real-time scanning capabilities and high-resolution 3D modelling make it a valuable tool for industries that require accurate and detailed scans of complex shapes and geometries.
+
 ## Overview
 This project is a **3D Scanner** built using **Embedded C** and various hardware components. It captures 3D models of objects using a **camera** and a **rotating platform**, controlled via a **joystick**. The **LCD display** provides real-time feedback, and a **selection button** is used to initiate and control the scanning process. The **stepper motor** rotates the platform, while **motor drivers** handle motor control. This project demonstrates expertise in embedded systems and hardware control.
 
@@ -47,3 +50,24 @@ This project is a **3D Scanner** built using **Embedded C** and various hardware
 6. **Selection Button:**
    - The user presses the button to start or stop the scanning process.
 
+
+
+
+## Advantages:
+Accuracy: 3D scanners capture objects with great precision.
+Speed: Scanning is much faster than manual measurement.
+Non-Contact: Scans without touching the object, ideal for fragile items.
+Reverse Engineering: Helps recreate digital models from physical objects.
+Customization: Used in custom manufacturing and prototyping.
+Quality Control: Ensures products meet exact specifications.
+Preservation: Helps digitize artifacts for record-keeping.
+## Disadvantages:
+Size Limits: Some scanners can only handle specific object sizes.
+Lighting Issues: Scanners may not work well in poor lighting or with reflective objects.
+Large Files: Scans create large data files that need lots of storage.
+## Applications:
+Manufacturing: Used for product design and inspection.
+Healthcare: Scanning for prosthetics or dental work.
+Architecture: Scanning buildings or objects for modeling.
+Art and Preservation: Scanning artifacts for digital archives.
+Education: Used in learning environments for research and projects.
