@@ -35,7 +35,15 @@ This project is a **3D Scanner** built using **Embedded C** and a variety of har
    - The joystick allows users to navigate through the menu and start the scan.
    - The selection button is used to initiate the scan and control the scanning process.
 
+
+├── src/               # Source code for the embedded system
+├── docs/              # Documentation (circuit diagrams, explanations)
+├── bin/               # Compiled binary files
+├── README.md          # Project overview and instructions
+└── LICENSE            # Licensing information (if applicable)
+
 For a detailed explanation of the project, you can refer to the project presentation: 3D Scanner Project Presentation
+
 
 
 ```bash
