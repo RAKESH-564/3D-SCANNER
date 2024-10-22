@@ -1,51 +1,43 @@
-# 3D-SCANNER
 # 3D Scanner Project
 
 ## Overview
-This project is a **3D Scanner** built using **Embedded C** and various hardware components. It captures 3D models of objects using a **camera** and a **rotating platform**, controlled via a **joystick**. The **LCD display** provides real-time feedback, and a **selection button** is used to initiate and control the scanning process. The **stepper motor** rotates the platform, while **motor drivers** handle motor control. This project demonstrates expertise in embedded systems and hardware control.
+This project is a **3D Scanner** built using **Embedded C** and a variety of hardware components. It scans physical objects in 3D space, generating accurate digital models. The system is controlled using a **Joystick** and **Selection Button**, while a **Stepper Motor** drives the rotation platform. A **Camera** captures the object as it rotates, and results are displayed on an **LCD Screen**.
 
 ## Features
-- Real-time 3D scanning of objects using a camera.
-- Stepper motor-driven rotational platform for full 360-degree object scans.
-- Joystick for user input and controlling scanning parameters.
-- LCD display for real-time feedback and status updates.
-- Embedded C code handles motor control, sensor input, and data processing.
+- 360-degree object scanning with stepper motor control.
+- Data collection using a camera and sensor system.
+- User interface with joystick and selection button.
+- Live feedback and controls displayed on an LCD screen.
+- Export scanned data to 3D model formats for further use.
 
 ## Hardware Components
-- **Microcontroller:** Arduino Nano.
-- **Stepper Motor:** For rotating the scanning platform.
-- **Joystick:** For controlling motor rotation and user input.
-- **LCD Display:** 16x2 LCD for displaying scan status and data.
-- **Selection Button:** To start/pause/stop the scanning process.
-- **Camera:** For capturing object images to create a 3D model.
-- **Motor Drivers:** (e.g., L298N) for controlling the stepper motor.
-- **Power Supply:** 5V DC.
+- **Stepper Motor:** Controls the rotation of the object platform.
+- **Joystick:** Used for user input and navigation.
+- **Arduino Nano:** Microcontroller to control the system.
+- **LCD Display:** Displays real-time information and scan progress.
+- **Selection Button:** Used to start or stop the scanning process.
+- **Camera:** Captures images of the object for scanning.
+- **Motor Drivers:** Control the stepper motor for platform rotation.
 
 ## Software Components
-- **Language:** Embedded C (Arduino-based development).
-- **IDE:** Arduino IDE.
-- **Libraries:**
-  - `Stepper.h` for motor control.
-  - `LiquidCrystal.h` for LCD interface.
-  - Custom camera libraries for interfacing with the camera.
+- **Programming Language:** Embedded C.
+- **IDE:** Arduino IDE or any compatible IDE.
+- **Libraries:** Stepper motor control, LCD control, camera interface libraries.
 
 ## How It Works
-1. **Object Placement:**
-   - The object to be scanned is placed on the rotating platform.
-   
-2. **Joystick Control:**
-   - The user controls the rotation angle and speed of the stepper motor using the joystick.
-   
-3. **LCD Display:**
-   - The LCD provides real-time feedback on the scanning process, showing rotation angle, and scan status.
-   
-4. **Camera Capture:**
-   - As the platform rotates, the camera captures multiple images from different angles to construct a 3D model.
+1. **Rotation and Scanning:**
+   - The object is placed on the rotating platform.
+   - The platform rotates incrementally using the stepper motor, controlled via joystick inputs.
+   - The camera captures the object at each step, creating a 3D model.
 
-5. **Motor and Camera Synchronization:**
-   - The stepper motor rotates in small increments, with the camera capturing an image after each increment. The motor drivers control the motor’s precise movements.
+2. **User Interface:**
+   - The LCD screen provides feedback during the scanning process.
+   - The joystick allows users to navigate through the menu and start the scan.
+   - The selection button is used to initiate the scan and control the scanning process.
 
-6. **Selection Button:**
-   - The user presses the button to start or stop the scanning process.
+## Project Setup
 
 
+```bash
+git clone [https://github.com/yourusername/3D-Scanner.git
+cd 3D-Scanner](https://docs.google.com/presentation/d/1XjHeJdVogjKGCzo6vBP9fqKM0ICfZaM6/edit?usp=sharing&ouid=101981796462723142981&rtpof=true&sd=true)
