@@ -71,3 +71,6 @@ Healthcare: Scanning for prosthetics or dental work.
 Architecture: Scanning buildings or objects for modeling.
 Art and Preservation: Scanning artifacts for digital archives.
 Education: Used in learning environments for research and projects.
+
+
+- 📝 Check out my [Presentation]([https://rakesh-564.github.io/rakeshgamidiprofile.com/](https://docs.google.com/presentation/d/1XjHeJdVogjKGCzo6vBP9fqKM0ICfZaM6/edit?usp=sharing&ouid=101981796462723142981&rtpof=true&sd=true))
