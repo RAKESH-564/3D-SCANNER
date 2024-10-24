@@ -74,3 +74,9 @@ Education: Used in learning environments for research and projects.
 
 
 - 📝 Check out my [Presentation](https://rakesh-564.github.io/3D-SCANNER/)
+
+![Sample Image](https://github.com/RAKESH-564/Email_Validator_project/blob/main/3d_image1.jpeg)
+
+![Sample Image](https://github.com/RAKESH-564/Email_Validator_project/blob/main/3d_image2.jpeg)
+
+
