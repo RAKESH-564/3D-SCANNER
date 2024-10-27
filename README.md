@@ -1,4 +1,6 @@
 # 3D Scanner Project
+[Project Documentation](https://drive.google.com/file/d/1EKke-tLkwMb0Dg1GsfDGWY0uqbY5y7aa/view?usp=sharing)
+
 
 ## Problem Statement
 The issue that encouraged the development of this 3D scanner system is the need for an affordable and efficient solution for 3D scanning applications in various industries such as engineering, architecture, and healthcare. Traditional 3D scanning technologies can be expensive and require specialized expertise, limiting their accessibility to smaller businesses and individuals. This system offers an accessible and customizable solution that can be built and operated by individuals with basic technical skills. The system's real-time scanning capabilities and high-resolution 3D modelling make it a valuable tool for industries that require accurate and detailed scans of complex shapes and geometries.
