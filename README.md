@@ -79,7 +79,7 @@ Art and Preservation: Scanning artifacts for digital archives.
 Education: Used in learning environments for research and projects.
 
 
-- 📝 Check out my [Presentation](https://rakesh-564.github.io/3D-SCANNER/)
+- 📝 Check out my 
 
 ![IMAGE ](https://github.com/RAKESH-564/Email_Validator_project/blob/main/3d_image1.jpeg)
 
