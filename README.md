@@ -1,5 +1,9 @@
 # 3D Scanner Project
-[Project Documentation](https://drive.google.com/file/d/1EKke-tLkwMb0Dg1GsfDGWY0uqbY5y7aa/view?usp=sharing)
+## Project Resources
+
+- [Project Documentation](https://drive.google.com/file/d/1EKke-tLkwMb0Dg1GsfDGWY0uqbY5y7aa/view?usp=sharing)
+- [Project Presentation](https://docs.google.com/presentation/d/1XjHeJdVogjKGCzo6vBP9fqKM0ICfZaM6/edit?usp=sharing&ouid=101981796462723142981&rtpof=true&sd=true)
+
 
 
 ## Problem Statement
