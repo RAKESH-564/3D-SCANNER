@@ -3,6 +3,11 @@
 
 - [Project Documentation](https://drive.google.com/file/d/1EKke-tLkwMb0Dg1GsfDGWY0uqbY5y7aa/view?usp=sharing)
 - [Project Presentation](https://docs.google.com/presentation/d/1XjHeJdVogjKGCzo6vBP9fqKM0ICfZaM6/edit?usp=sharing&ouid=101981796462723142981&rtpof=true&sd=true)
+- ## Project Links
+
+- [Project Video](https://drive.google.com/file/d/1T1wxv5Fxl5Pq1Qo0y-hY97qd-9RPsUp5/view?usp=sharing)
+- [Prototype Model](https://drive.google.com/file/d/1oorwZ9qs8Y0QSyUMzn_1SrrFOqKO00aZ/view?usp=sharing)
+
 
 
 
